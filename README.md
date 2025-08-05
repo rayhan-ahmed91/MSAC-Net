@@ -24,9 +24,9 @@ The model is evaluated on four benchmark datasets:
 All datasets are resized to `256×256` resolution and undergo extensive data augmentation using Albumentations.
 
 ## 🛠️ Installation
-git clone https://github.com/rayhan-ahmed91/MSAC-Net.git
-cd MSAC-Net
-pip install -r requirements.txt
+- git clone https://github.com/rayhan-ahmed91/MSAC-Net.git
+- cd MSAC-Net
+- pip install -r requirements.txt
 
 ## License
 This project is released under the CC BY-NC-ND 4.0 License.
